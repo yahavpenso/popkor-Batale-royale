@@ -1,6 +1,6 @@
 # popkor Batale royale
 
-a fortnite  map
+a fortnite creative map
 
 
 its a frotnite 2.0 map (the new ceative app)

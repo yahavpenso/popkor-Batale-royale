@@ -26,4 +26,4 @@ a big map is coming up
 🔴 a 2 black blocks have Accidentally
 add to the word.
 
-🔴the spawn video is not starting in the start game.
+🔴the spawn video is not starting in the start game. 
